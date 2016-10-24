@@ -1,0 +1,12 @@
+.navbar { font-family: 'Oswald', sans-serif !important; }
+.navbar-brand { font-weight: 700; font-size: 40px; }
+.navbar-inverse a { color: #ccc !important; }
+.navbar-inverse a:hover { background: #333 !important; }
+.navbar-nav a { font-weight: 400; font-size: 17px;  }
+.dropdown-menu.inverse { background: #000; }
+.dropdown-menu.inverse a { font-weight: 300; color: #ccc; }
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
